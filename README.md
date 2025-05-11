@@ -1,3 +1,5 @@
+https://roadmap.sh/projects/server-stats
+
 1. 确保脚本具有可执行权限
 ```bash
 chmod +x server-stats.sh
@@ -6,4 +8,3 @@ chmod +x server-stats.sh
 ```bash
 ./server-stats.sh
 ```
-https://roadmap.sh/projects/server-stats
